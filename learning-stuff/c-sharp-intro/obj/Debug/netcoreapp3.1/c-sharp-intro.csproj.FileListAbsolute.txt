@@ -1,0 +1,12 @@
+/Users/rahultandon/Documents/internship/learning-stuff/c-sharp-intro/bin/Debug/netcoreapp3.1/c-sharp-intro.deps.json
+/Users/rahultandon/Documents/internship/learning-stuff/c-sharp-intro/bin/Debug/netcoreapp3.1/c-sharp-intro.runtimeconfig.json
+/Users/rahultandon/Documents/internship/learning-stuff/c-sharp-intro/bin/Debug/netcoreapp3.1/c-sharp-intro.runtimeconfig.dev.json
+/Users/rahultandon/Documents/internship/learning-stuff/c-sharp-intro/bin/Debug/netcoreapp3.1/c-sharp-intro.dll
+/Users/rahultandon/Documents/internship/learning-stuff/c-sharp-intro/bin/Debug/netcoreapp3.1/c-sharp-intro.pdb
+/Users/rahultandon/Documents/internship/learning-stuff/c-sharp-intro/obj/Debug/netcoreapp3.1/c-sharp-intro.csprojAssemblyReference.cache
+/Users/rahultandon/Documents/internship/learning-stuff/c-sharp-intro/obj/Debug/netcoreapp3.1/c-sharp-intro.AssemblyInfoInputs.cache
+/Users/rahultandon/Documents/internship/learning-stuff/c-sharp-intro/obj/Debug/netcoreapp3.1/c-sharp-intro.AssemblyInfo.cs
+/Users/rahultandon/Documents/internship/learning-stuff/c-sharp-intro/obj/Debug/netcoreapp3.1/c-sharp-intro.csproj.CoreCompileInputs.cache
+/Users/rahultandon/Documents/internship/learning-stuff/c-sharp-intro/obj/Debug/netcoreapp3.1/c-sharp-intro.dll
+/Users/rahultandon/Documents/internship/learning-stuff/c-sharp-intro/obj/Debug/netcoreapp3.1/c-sharp-intro.pdb
+/Users/rahultandon/Documents/internship/learning-stuff/c-sharp-intro/obj/Debug/netcoreapp3.1/c-sharp-intro.genruntimeconfig.cache

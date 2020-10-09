@@ -1,0 +1,8 @@
+/Users/rahultandon/Desktop/stuff-made-by-me/intro-c-sharp/obj/Debug/netcoreapp3.1/intro-c-sharp.csprojAssemblyReference.cache
+/Users/rahultandon/Desktop/stuff-made-by-me/intro-c-sharp/obj/Debug/netcoreapp3.1/intro-c-sharp.AssemblyInfoInputs.cache
+/Users/rahultandon/Desktop/stuff-made-by-me/intro-c-sharp/obj/Debug/netcoreapp3.1/intro-c-sharp.AssemblyInfo.cs
+/Users/rahultandon/Desktop/stuff-made-by-me/intro-c-sharp/obj/Debug/netcoreapp3.1/intro-c-sharp.csproj.CoreCompileInputs.cache
+/Users/rahultandon/Documents/internship/learning-stuff/intro-c-sharp/obj/Debug/netcoreapp3.1/intro-c-sharp.csprojAssemblyReference.cache
+/Users/rahultandon/Documents/internship/learning-stuff/intro-c-sharp/obj/Debug/netcoreapp3.1/intro-c-sharp.AssemblyInfoInputs.cache
+/Users/rahultandon/Documents/internship/learning-stuff/intro-c-sharp/obj/Debug/netcoreapp3.1/intro-c-sharp.AssemblyInfo.cs
+/Users/rahultandon/Documents/internship/learning-stuff/intro-c-sharp/obj/Debug/netcoreapp3.1/intro-c-sharp.csproj.CoreCompileInputs.cache

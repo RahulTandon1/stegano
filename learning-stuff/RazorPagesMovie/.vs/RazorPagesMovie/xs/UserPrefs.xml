@@ -1,10 +1,9 @@
 ﻿<Properties StartupConfiguration="{45B7BAD4-C5A7-4D18-BB2E-8CBBAC3F7393}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="RazorPagesMovie/Pages/Movies/Index.cshtml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RazorPagesMovie/Models/SeedData.cs">
     <Files>
-      <File FileName="RazorPagesMovie/Models/Movie.cs" Line="19" Column="1" />
-      <File FileName="RazorPagesMovie/Program.cs" />
-      <File FileName="RazorPagesMovie/Pages/Movies/Index.cshtml" />
-      <File FileName="RazorPagesMovie/Pages/Movies/Index.cshtml.cs" Line="26" Column="10" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Create.cshtml.cs" Line="19" Column="10" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Create.cshtml" Line="25" Column="23" />
+      <File FileName="RazorPagesMovie/Models/SeedData.cs" Line="14" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,13 +11,8 @@
           <Node name="RazorPagesMovie" expanded="True">
             <Node name="RazorPagesMovie" expanded="True">
               <Node name="Data" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="Pages" expanded="True">
-                <Node name="Movies" expanded="True">
-                  <Node name="Index.cshtml" expanded="True">
-                    <Node name="Index.cshtml.cs" selected="True" />
-                  </Node>
-                </Node>
+              <Node name="Models" expanded="True">
+                <Node name="SeedData.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -29,6 +23,9 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.RazorPagesMovie PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders>
+    <String>/Users/rahultandon/Documents/internship/learning-stuff</String>
+  </Debugger.DebugSourceFolders>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

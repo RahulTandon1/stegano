@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rahultandon/Projects/RazorPagesMovie/RazorPagesMovie/RazorPagesMovie.csproj": {}
+    "/Users/rahultandon/Documents/internship/learning-stuff/RazorPagesMovie/RazorPagesMovie/RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "/Users/rahultandon/Projects/RazorPagesMovie/RazorPagesMovie/RazorPagesMovie.csproj": {
+    "/Users/rahultandon/Documents/internship/learning-stuff/RazorPagesMovie/RazorPagesMovie/RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rahultandon/Projects/RazorPagesMovie/RazorPagesMovie/RazorPagesMovie.csproj",
+        "projectUniqueName": "/Users/rahultandon/Documents/internship/learning-stuff/RazorPagesMovie/RazorPagesMovie/RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "/Users/rahultandon/Projects/RazorPagesMovie/RazorPagesMovie/RazorPagesMovie.csproj",
+        "projectPath": "/Users/rahultandon/Documents/internship/learning-stuff/RazorPagesMovie/RazorPagesMovie/RazorPagesMovie.csproj",
         "packagesPath": "/Users/rahultandon/.nuget/packages/",
-        "outputPath": "/Users/rahultandon/Projects/RazorPagesMovie/RazorPagesMovie/obj/",
+        "outputPath": "/Users/rahultandon/Documents/internship/learning-stuff/RazorPagesMovie/RazorPagesMovie/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/rahultandon/.nuget/NuGet/NuGet.Config"
+          "/Users/rahultandon/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
