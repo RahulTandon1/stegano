@@ -5,10 +5,12 @@ _Legend_
 
 ## C Sharp
 ### The basic basics
-- Print -> `Console.WriteLine("");`
-- Need `;`s and PascalNamingConvention;
+- Print statement -> `Console.WriteLine("");`
+- Need `;`s
+- Follows PascalNamingConvention;
  
 ### Type System [Docs Link to page](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/)
+
 Alright this page was...cool. Like thoda confusing but it introduced me to stuff and clarified some stuff as well.
 
 - Everything in c# is a `system.object`, like everything
@@ -28,6 +30,13 @@ Alright this page was...cool. Like thoda confusing but it introduced me to stuff
 
 
 - `List<T>` = A collection, here a list, of the type `T`.
+### Interfaces
+So basically they define what a class should implement.
+One can have mulitple interfaces on the same class, even if said class is extending another class.
+
+Their members are always public,so we don't have to mention any "access modifiers" like private or public.
+
+Also, an interface can add to another interface...much like a class can extend another class.
 
 ### Understand .NET kinda stuff
 - Entity framework is like Mongoose or Prisma but built by Microsoft for SQL...I think.
@@ -45,8 +54,12 @@ _WIDG_: The global namespace is the "root" namespace: global::System will always
 ### Razor pages basic tutorial
 - 
 
-_WIDG_ - So do Models, aka POCO classes, have or do not have dependency on the Entity Framework? https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/model?view=aspnetcore-3.1
+_WIDG_ 
 
+- So do Models, aka POCO classes, have or do not have dependency on the Entity Framework? https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/model?view=aspnetcore-3.1
+- "The Label Tag Helper (<label asp-for="Movie.Title" class="control-label"></label>) generates the label caption and for attribute for the Title property.
+
+The Input Tag Helper (<input asp-for="Movie.Title" class="form-control">) uses the DataAnnotations attributes and produces HTML attributes needed for jQuery Validation on the client-side."
 
 ## Vim
 > Main reason for vim stuff is that text files are just easier/more convenient to do in the terminal itself (no application needs to be opened)
@@ -66,7 +79,7 @@ _WIDG_ - So do Models, aka POCO classes, have or do not have dependency on the E
 - Dependency Injection (https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-3.1)
 - Data Attributions (https://docs.microsoft.com/en-us/dotnet/api/system.componentmodel.dataannotations?view=netcore-3.1)
 - Classes
-- Interfaces
+
 - Enums // might be mini-classes
 - Delegates
 - Attributes
@@ -79,7 +92,9 @@ _WIDG_ - So do Models, aka POCO classes, have or do not have dependency on the E
 - "By default, the most frequently used types in the class library are available in any C# program. Others become available only when you explicitly add a project reference to the assembly in which they are defined."
  -> Is a project reference different from a "using <XYZ>" statement?
 
-## If stuff works out, here's probably how I learnt it:
+## Sources of learning
+> If stuff works out, here's probably how I learnt it:
 - Microsoft Docs
+- IAmTimCorey (Youtube channel)
 - Brackeys
 - Vim Cheat Sheet - https://www.fprintf.net/vimCheatSheet.html
