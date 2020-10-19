@@ -2,15 +2,17 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="RazorPagesMovie/Program.cs">
     <Files>
       <File FileName="RazorPagesMovie/Models/SeedData.cs" Line="17" Column="18" />
-      <File FileName="RazorPagesMovie/Program.cs" Line="18" Column="46" />
-      <File FileName="RazorPagesMovie/Pages/Movies/Edit.cshtml.cs" Line="14" Column="6" />
+      <File FileName="RazorPagesMovie/Program.cs" Line="15" Column="10" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Edit.cshtml.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="RazorPagesMovie" expanded="True">
             <Node name="RazorPagesMovie" expanded="True">
-              <Node name="Data" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="RazorPagesMovieContext.cs" selected="True" />
+              </Node>
               <Node name="Migrations" expanded="True">
                 <Node name="20200930163650_InitialCreate.cs" expanded="True" />
               </Node>
@@ -22,7 +24,6 @@
                 </Node>
                 <Node name="Shared" expanded="True" />
               </Node>
-              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

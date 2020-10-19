@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "9Jv9m1e/tDnYHsK2G9ZYBB7cizkOvBU/HD22jBi8uLP8XrLmhky/1oL2GOBgu6CAVbKYM6meCeJSCFT5IUEgDA==",
+  "dgSpecHash": "lydu5h8x1c/HeDkTzpgl04U8i10iS94V50LuisgFuQwZjdkrsBVSYfxlynQEocD1OGFOxXaenH+csb6Z3MTVSw==",
   "success": true,
   "projectFilePath": "/Users/rahultandon/Documents/internship/learning-stuff/intro-c-sharp/intro-c-sharp/intro-c-sharp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/rahultandon/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "/Users/rahultandon/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "/Users/rahultandon/.nuget/packages/runtime.osx.10.10-x64.corecompat.system.drawing/5.8.64/runtime.osx.10.10-x64.corecompat.system.drawing.5.8.64.nupkg.sha512",
+    "/Users/rahultandon/.nuget/packages/system.drawing.common/4.7.0/system.drawing.common.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

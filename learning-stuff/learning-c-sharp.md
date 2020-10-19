@@ -24,7 +24,6 @@ Alright this page was...cool. Like thoda confusing but it introduced me to stuff
 	- Reference types can be made in 2-3 ways: classes, interfaces and delegates  
 - _WIDG_: 
 	- Boxing thingie mentioned
-	- Interfaces
 	- Delegates
 
 
@@ -78,9 +77,8 @@ The Input Tag Helper (<input asp-for="Movie.Title" class="form-control">) uses t
 - Razor syntax (https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-3.1#razor-syntax)
 - Dependency Injection (https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-3.1)
 - Data Attributions (https://docs.microsoft.com/en-us/dotnet/api/system.componentmodel.dataannotations?view=netcore-3.1)
-- Classes
 
-- Enums // might be mini-classes
+
 - Delegates
 - Attributes
 - Async Code
