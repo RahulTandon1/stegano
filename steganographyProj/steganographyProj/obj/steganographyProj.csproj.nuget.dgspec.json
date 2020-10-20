@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rahultandon/Projects/steganographyProj/steganographyProj/steganographyProj.csproj": {}
+    "/Users/rahultandon/Documents/internship/steganographyProj/steganographyProj/steganographyProj.csproj": {}
   },
   "projects": {
-    "/Users/rahultandon/Projects/steganographyProj/steganographyProj/steganographyProj.csproj": {
+    "/Users/rahultandon/Documents/internship/steganographyProj/steganographyProj/steganographyProj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rahultandon/Projects/steganographyProj/steganographyProj/steganographyProj.csproj",
+        "projectUniqueName": "/Users/rahultandon/Documents/internship/steganographyProj/steganographyProj/steganographyProj.csproj",
         "projectName": "steganographyProj",
-        "projectPath": "/Users/rahultandon/Projects/steganographyProj/steganographyProj/steganographyProj.csproj",
+        "projectPath": "/Users/rahultandon/Documents/internship/steganographyProj/steganographyProj/steganographyProj.csproj",
         "packagesPath": "/Users/rahultandon/.nuget/packages/",
-        "outputPath": "/Users/rahultandon/Projects/steganographyProj/steganographyProj/obj/",
+        "outputPath": "/Users/rahultandon/Documents/internship/steganographyProj/steganographyProj/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rahultandon/.config/NuGet/NuGet.Config"
@@ -43,6 +43,10 @@
             "System.Runtime": {
               "target": "Package",
               "version": "[4.3.1, )"
+            },
+            "runtime.osx.10.10-x64.CoreCompat.System.Drawing": {
+              "target": "Package",
+              "version": "[5.8.64, )"
             }
           },
           "imports": [

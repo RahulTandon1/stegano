@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "A/PBTFpJE5F6aCwD7OJFlCqxzkcg4YvPEUs5IBJ5s4apUeqi/9nsYOERCw4pn5CK3XS08E0VodJUo9wmjUqxmg==",
+  "dgSpecHash": "gkh+DpGWyFllrR4R7vQ7Q2ONuW8r8Xe+YHbQkzggPgIyuH8mp16bazoKHgWnkFEiEbjuAKzwRU8dlX06UQ79DA==",
   "success": true,
-  "projectFilePath": "/Users/rahultandon/Projects/steganographyProj/steganographyProj/steganographyProj.csproj",
+  "projectFilePath": "/Users/rahultandon/Documents/internship/steganographyProj/steganographyProj/steganographyProj.csproj",
   "expectedPackageFiles": [
     "/Users/rahultandon/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "/Users/rahultandon/.nuget/packages/microsoft.netcore.targets/1.1.3/microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "/Users/rahultandon/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "/Users/rahultandon/.nuget/packages/runtime.osx.10.10-x64.corecompat.system.drawing/5.8.64/runtime.osx.10.10-x64.corecompat.system.drawing.5.8.64.nupkg.sha512",
     "/Users/rahultandon/.nuget/packages/system.drawing.common/4.7.0/system.drawing.common.4.7.0.nupkg.sha512",
     "/Users/rahultandon/.nuget/packages/system.runtime/4.3.1/system.runtime.4.3.1.nupkg.sha512"
   ],
