@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Steganography";
+}
+
+
+<form method="post" enctype="multipart/form-data" asp-controller="steganography" asp-action="encode">
+        <div class="form-group">
+            <div class="col-md-10">
+                <p>Upload one or more files using this form:</p>
+                <input type="file" name="file"/>
+                <input type="text" name="plaintext"/>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-10">
+                <input type="submit" value="Upload" />
+            </div>
+        </div>
+    </form>
+
+    <form method="post" enctype="multipart/form-data" asp-controller="steganography" asp-action="decode">
+        <div class="form-group">
+            <div class="col-md-10">
+                <p>Upload one or more files using this form:</p>
+                <input type="file" name="file" />
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-10">
+                <input type="submit" value="Decode" />
+            </div>
+        </div>
+    </form>

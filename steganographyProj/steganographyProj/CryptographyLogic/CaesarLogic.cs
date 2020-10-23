@@ -1,24 +1,9 @@
 ﻿using System;
-using System.IO;
-//using System.Drawing;
-//using runtime
-//using System.Drawing.Common;
-namespace App
+namespace steganographyProj.CryptographyLogic
 {
-    public class fileStuff
+    public class CaesarHelper
     {
-        public static void Main()
-        {
-            //encodeXOR(int plaintext, int key);
-            //encryptCaesar("rahul tandon", 3);
-            encryptCaesar("udkxo wdqgrq", -3);
-
-        }
-
-        
-
-        
-        public static void encryptCaesar(string plaintext, int shift)
+        public static string encode(string plaintext, int shift)
         {
             // alphabet -> abcdefghijik....z loop to a
 
@@ -33,18 +18,24 @@ namespace App
             foreach (char c in plaintext)
             {
 
-                if (c == ' ') {
+                if (c == ' ')
+                {
                     ciphertext += (char)c;
                     continue;
                 }
-                
+
 
                 // c# does the type casting to integer itself
                 ciphertext += (char)(c + increment);
             }
-            Console.WriteLine(ciphertext);
 
+            return ciphertext;
+        }
+
+        public static string decode(string plaintext, int shift)
+        {
+
+            return encode(plaintext, -shift);
         }
     }
 }
-

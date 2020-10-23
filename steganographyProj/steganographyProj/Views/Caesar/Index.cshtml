@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Caesar Cipher";
+}
+<h2>Encrypt</h2>
+<form method="post" asp-controller="caesar" asp-action="encode">
+    <div class="form-group">
+        <div class="col-md-10">
+            <p>Please enter the plain text.</p>
+            <input type="text" name="plaintext" />
+            <p>Please enter the shift to apply on plaintext</p>
+            <input type="text" name="shift">
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-10">
+            <input type="submit" value="Encrypt Caesar" />
+        </div>
+    </div>
+</form>
+
+<hr />
+
+<form method="post" asp-controller="caesar" asp-action="decode">
+    <div class="form-group">
+        <div class="col-md-10">
+            <p>Please enter the cipher text.</p>
+            <input type="text" name="ciphertext" />
+            <p>Please enter the shift to test on ciphertext.</p>
+            <input type="text" name="shift">
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-10">
+            <input type="submit" value="Decrypt Caesar" />
+        </div>
+    </div>
+</form>
