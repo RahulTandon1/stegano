@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Morse Code";
+}
+<h2>Encrypt</h2>
+<form method="post" asp-controller="morse" asp-action="encode">
+    <div class="form-group">
+        <div class="col-md-10">
+            <p>Please enter the plain text to encode into morse code.</p>
+            <input type="text" name="plaintext" />
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-10">
+            <input type="submit" value='Encrypt @ViewData["Title"]'/>
+        </div>
+    </div>
+</form>
+
+<hr />
+
+<form method="post" asp-controller="morse" asp-action="decode">
+    <div class="form-group">
+        <div class="col-md-10">
+            <p>Please enter the morse code to decode.</p>
+            <input type="text" name="ciphertext" />
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-10">
+            <input type="submit" value="Decrypt @ViewData["Title"]" />
+        </div>
+    </div>
+</form>

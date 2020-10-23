@@ -8,6 +8,7 @@
     <Folder Include="CryptographyLogic\" />
     <Folder Include="Views\Caesar\" />
     <Folder Include="Views\Steganography\" />
+    <Folder Include="Views\Morse\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="System.Drawing.Common" Version="4.7.0" />

@@ -93,3 +93,6 @@
 /Users/rahultandon/Documents/internship/steganographyProj/steganographyProj/obj/Debug/netcoreapp3.1/Razor/Views/Caesar/oopsie.cshtml.g.cs
 /Users/rahultandon/Documents/internship/steganographyProj/steganographyProj/obj/Debug/netcoreapp3.1/Razor/Views/Caesar/decode.cshtml.g.cs
 /Users/rahultandon/Documents/internship/steganographyProj/steganographyProj/obj/Debug/netcoreapp3.1/Razor/Views/Home/About.cshtml.g.cs
+/Users/rahultandon/Documents/internship/steganographyProj/steganographyProj/obj/Debug/netcoreapp3.1/Razor/Views/Morse/Decode.cshtml.g.cs
+/Users/rahultandon/Documents/internship/steganographyProj/steganographyProj/obj/Debug/netcoreapp3.1/Razor/Views/Morse/Encode.cshtml.g.cs
+/Users/rahultandon/Documents/internship/steganographyProj/steganographyProj/obj/Debug/netcoreapp3.1/Razor/Views/Morse/Index.cshtml.g.cs
