@@ -9,6 +9,7 @@
     <Folder Include="Views\Caesar\" />
     <Folder Include="Views\Steganography\" />
     <Folder Include="Views\Morse\" />
+    <Folder Include="wwwroot\imgs\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="System.Drawing.Common" Version="4.7.0" />
@@ -16,9 +17,9 @@
     <PackageReference Include="runtime.osx.10.10-x64.CoreCompat.System.Drawing" Version="5.8.64" />
   </ItemGroup>
   <ItemGroup>
-    <Content Remove="wwwroot\favicon.png" />
+    <Content Remove="wwwroot\imgs\favicon.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="wwwroot\favicon.png" />
+    <None Include="wwwroot\imgs\favicon.png" />
   </ItemGroup>
 </Project>
