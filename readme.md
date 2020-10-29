@@ -7,9 +7,16 @@ To put my knowledge to the test I created a basic web application to implement S
 I later added simple Caesar Cipher and Morse Code tools to get a better idea of MVC. 
 The project name, however, is based on the first tool I put in the application.
 
+## live demo
+(stegano.azurewebsites.net)[https://stegano.azurewebsites.net]
+
 ## contents
 
 - `learning-stuff/` - contains mini-projects and a markdown file that I used when learning C#, .NET and ASP.NET Core.
+
 - steganoProj - the actual application I built.
 
+- writeups - has a file called steganography.md that you should read __before__ you read the files in `CryptographyLogic`.
+
+## Thank so much for reading :-)
 Bye!

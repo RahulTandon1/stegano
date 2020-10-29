@@ -1,21 +1,23 @@
 ﻿<Properties StartupConfiguration="{332FEDB4-5D44-463F-B2B2-78F520D20023}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="steganographyProj/appsettings.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="steganographyProj/Views/Home/Privacy.cshtml">
     <Files>
       <File FileName="steganographyProj/Controllers/MorseController.cs" Line="14" Column="10" />
       <File FileName="steganographyProj/Controllers/CaesarController.cs" />
       <File FileName="steganographyProj/CryptographyLogic/MorseLogic.cs" />
-      <File FileName="steganographyProj/CryptographyLogic/Steganologic.cs" Line="2" Column="17" />
+      <File FileName="steganographyProj/CryptographyLogic/Steganologic.cs" />
       <File FileName="steganographyProj/Views/Morse/Decode.cshtml" />
       <File FileName="steganographyProj/Views/Morse/Index.cshtml" />
       <File FileName="steganographyProj/Views/Home/Index.cshtml" Line="7" Column="5" />
-      <File FileName="steganographyProj/Views/Shared/_Layout.cshtml" Line="9" Column="65" />
-      <File FileName="steganographyProj/wwwroot/js/site.js" Line="1" Column="1" />
-      <File FileName="steganographyProj/wwwroot/css/site.css" Line="1" Column="70" />
-      <File FileName="steganographyProj/Controllers/SteganographyController.cs" Line="1" Column="1" />
-      <File FileName="steganographyProj/Program.cs" Line="1" Column="1" />
-      <File FileName="steganographyProj/Startup.cs" Line="1" Column="1" />
-      <File FileName="steganographyProj/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="steganographyProj/Views/Shared/_Layout.cshtml" />
+      <File FileName="steganographyProj/wwwroot/js/site.js" />
+      <File FileName="steganographyProj/wwwroot/css/site.css" />
+      <File FileName="steganographyProj/Controllers/SteganographyController.cs" />
+      <File FileName="steganographyProj/Program.cs" />
+      <File FileName="steganographyProj/Startup.cs" />
+      <File FileName="steganographyProj/appsettings.Development.json" />
       <File FileName="steganographyProj/appsettings.json" Line="1" Column="1" />
+      <File FileName="steganographyProj/Views/Home/About.cshtml" Line="1" Column="1" />
+      <File FileName="steganographyProj/Views/Home/Privacy.cshtml" Line="6" Column="15" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -26,8 +28,13 @@
               <Node name="CryptographyLogic" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True" />
+                <Node name="Home" expanded="True">
+                  <Node name="Privacy.cshtml" selected="True" />
+                </Node>
                 <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="imgs" expanded="True" />
               </Node>
               <Node name="appsettings.json" expanded="True" />
             </Node>
